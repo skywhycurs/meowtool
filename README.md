@@ -20,7 +20,7 @@
 
 
 
-installation for linux:
+**installation for linux**:
 <pre>
 <code>
 1. git clone https://github.com/skywhycurs/meowtool.git
