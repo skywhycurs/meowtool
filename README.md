@@ -6,10 +6,20 @@
 <pre>
 <code>
 1. pkg install python3
+</code>
+<code>
 2. pkg install python3-pip 
+</code>
+<code>
 3. pkg install git
+</code>
+<code>
 4. git clone https://github.com/skywhycurs/meowtool.git
+</code>
+<code>
 5. cd meowtool/
+</code>
+<code>
 6. python3 setup.py
 </code>
 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="5" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
@@ -24,6 +34,8 @@
 <pre>
 <code>
 1. git clone https://github.com/skywhycurs/meowtool.git
+</code>
+<code>
 2. python3 setup.py
 </code>
 <svg xmlns="http://www.w3.org/2000/svg" width="14" height="5" fill="currentColor" class="bi bi-clipboard" viewBox="0 0 16 16">
